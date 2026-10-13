@@ -1,8 +1,9 @@
-# Smart Traffic Management
+# Smart-Traffic-Management
 
 Smart Traffic Lite is a Python and Streamlit-based traffic management
 simulation featuring adaptive signal timing, emergency vehicle priority,
 traffic analytics, lane-wise AQI monitoring, and downloadable CSV reports.
+It identifies lanes with the highest entered AQI and visualizes traffic data.
 Vehicle counts and AQI readings are entered manually; this prototype does not
 control real traffic signals or read physical sensors.
 
